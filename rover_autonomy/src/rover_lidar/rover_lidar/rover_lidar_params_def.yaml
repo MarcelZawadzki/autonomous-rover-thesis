@@ -1,0 +1,4 @@
+scan_u_step: 1
+scan_res_v: 6
+scan_min_v_deg: 70
+scan_step_v_deg: 6

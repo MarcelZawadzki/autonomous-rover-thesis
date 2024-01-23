@@ -1,0 +1,16 @@
+### VisualStudioCode ###
+.vscode/
+
+### Python ###
+venv/
+__pycache__/
+*.py[cod]
+
+### ROS ###
+build/
+log/
+install/
+
+### ZED ###
+src/zed-ros2-wrapper
+src/zed-ros2-examples
