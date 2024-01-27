@@ -1,9 +1,13 @@
 Bachelor's thesis by Marcel Zawadzki
+
 Thesis supervisor: D.Eng Wojciech Dudek
 
 Institute of Control and Computation Engineering
+
 Faculty of Electronics and Information Technology
+
 Warsaw University of Technology
+
 
 This thesis addresses the problem of autonomous navigation in unstructured environments. The goal was to develop and implement an autonomous navigation system for an all-terrain mobile robot made by the author, utilising a LiDAR scanner.
 
